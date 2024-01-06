@@ -30,9 +30,9 @@ Provide a link or information about how users can see a demo of the chat bot.
 
 To run the chat bot locally, follow these steps:
 
-1. **Clone the Repository:**
-   $git clone https://github.com/Amrit02102004/WeSavingLifes.git
-   $cd ChatBot
-   $python manage.py runserver
-
-   
+```bash
+# Example Bash Command
+$ git clone https://github.com/your-username/your-repo.git
+$ cd your-repo
+$ npm install
+```
