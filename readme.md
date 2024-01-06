@@ -1,6 +1,6 @@
-# Your Web App Name
+# ChatBot
 
-A brief description of your web app.
+A simple chat bot that provides ASCII art as a placeholder for now.
 
 ## Table of Contents
 
@@ -15,4 +15,24 @@ A brief description of your web app.
 
 ## Introduction
 
-Provide a brief introduction to your web app. Include its purpose, key features, and any relevant background information.
+This project is a basic chat bot that currently serves as a placeholder for generating ASCII art. The goal is to provide a foundation that can be expanded upon for more advanced chat bot functionalities.
+
+## Features
+
+- Placeholder feature: Generates ASCII art.
+- Extendable for future features and improvements.
+
+## Demo
+
+Provide a link or information about how users can see a demo of the chat bot.
+
+## Getting Started
+
+To run the chat bot locally, follow these steps:
+
+1. **Clone the Repository:**
+   $git clone https://github.com/Amrit02102004/WeSavingLifes.git
+   $cd ChatBot
+   $python manage.py runserver
+
+   
