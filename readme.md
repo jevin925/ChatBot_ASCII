@@ -8,23 +8,20 @@ A simple chat bot that provides ASCII art as a placeholder for now.
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
-This project is a basic chat bot that currently serves as a placeholder for generating ASCII art. The goal is to provide a foundation that can be expanded upon for more advanced chat bot functionalities.
+This is a simple chat bot that provides the next ASCII art as a placeholder for now.
+We can use this basic model for chat bot and chat apps etc.
 
 ## Features
 
-- Placeholder feature: Generates ASCII art.
-- Extendable for future features and improvements.
+-  Generates Next ASCII 
 
 ## Demo
 
-Provide a link or information about how users can see a demo of the chat bot.
+-  See for yourself
 
 ## Getting Started
 
@@ -32,7 +29,7 @@ To run the chat bot locally, follow these steps:
 
 ```bash
 # Example Bash Command
-$ git clone https://github.com/your-username/your-repo.git
-$ cd your-repo
-$ npm install
+$ git clone https://github.com/Amrit02102004/ChatBot_ASCII.git
+$ cd ChatBot
+$ python manage.py runserver
 ```
