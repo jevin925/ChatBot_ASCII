@@ -4,6 +4,6 @@ from . import views
 
 urlpatterns = [
     path('',views.index,name='index'),
-    path('get_next_char/<str:message>/', get_next_char, name='get_next_char'),
+    path('get_reply/', get_next_char, name='get_next_char'),
     
 ]
