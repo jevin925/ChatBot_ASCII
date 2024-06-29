@@ -5,6 +5,7 @@ A simple chat bot that provides ASCII art as a placeholder for now.
 ## Table of Contents
 
 - [Introduction](#introduction)
+- 
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
