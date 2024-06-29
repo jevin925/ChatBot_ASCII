@@ -32,5 +32,5 @@ To run the chat bot locally, follow these steps:
 # Example Bash Command
 $ git clone https://github.com/Amrit02102004/ChatBot_ASCII.git
 $ cd ChatBot
-$ python manage.py runserver
+$ python manage.py runserver 8000
 ```
